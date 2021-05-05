@@ -6,6 +6,7 @@ Permite convertir un video al formato que el usuario desee y que sea permitido p
 convertido se empieza a enviar de vuelta al usuario ya el archivo de video en el nuevo formato.
 
 El servidor posee las siguientes funciones para el cliente:
+
 • Convierte el archivo a los formatos permitidos por ffmpeg
 
 • Indica IP y hora del servidor
