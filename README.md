@@ -7,12 +7,21 @@ convertido se empieza a enviar de vuelta al usuario ya el archivo de video en el
 
 El servidor posee las siguientes funciones para el cliente:
 • Convierte el archivo a los formatos permitidos por ffmpeg
+
 • Indica IP y hora del servidor
+
 • Programa para UDP o TCP para servidor y cliente
+
 • Ejecucion desde linea de comandos
+
 • Listado de formatos de conversion permitidos tanto para video como para audio
+
 • Ayuda de uso del programa con los comandos permitidos
+
 • Indica fecha y hora de inicio y finalizacion de la conversion
+
 • Indica direcciones IP destino y fuente
+
 • Indica los numeros de puertos fuente y destino
+
 
