@@ -25,4 +25,16 @@ El servidor posee las siguientes funciones para el cliente:
 
 • Indica los numeros de puertos fuente y destino
 
+# Como ejecutar?
+
+1. En consola correr el cliente: python client.py
+
+2. A continuacion coloque la informacion solicitada por el sistema.
+
+*NOTA: La carpeta posee un video de prueba*
+
+
+
+
+
 
