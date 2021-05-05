@@ -27,7 +27,7 @@ El servidor posee las siguientes funciones para el cliente:
 
 # Como ejecutar?
 
-1. En consola correr el cliente: python client.py
+1. En consola colocado en la raiz del proyecto ejecutar el comando: python client.py
 
 2. A continuacion coloque la informacion solicitada por el sistema.
 
