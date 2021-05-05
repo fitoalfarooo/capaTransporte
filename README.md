@@ -1,6 +1,6 @@
 # Capa de Transporte
 
-# Servidor para convertir videos que permita multiples conexiones. 
+**Servidor para convertir videos que permita multiples conexiones.**
 
 Permite convertir un video al formato que el usuario desee y que sea permitido por ffmpeg, una ves
 convertido se empieza a enviar de vuelta al usuario ya el archivo de video en el nuevo formato.
