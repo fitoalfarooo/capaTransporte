@@ -12,9 +12,9 @@ audioFormats = [".mp3",".flac",".wav",".aac"]
 
 try:
     print("\n[Ejemplo de parametros]"
-          "\ninput = C:\\Users\\warner\\Desktop\\tareaRedes\\video.mp4" +
-          "\noutput = C:\\Users\\warner\\Desktop\\tareaRedes\\respuesta.mkv" +
-          "\nhost = 192.168.1.186"
+          "\ninput = C:\\Users\\warner\\Desktop\\tareaTransport\\capaTransporte\\video.mp4" 
+          "\noutput = C:\\Users\\warner\\Desktop\\tareaTransport\\capaTransporte\\respuesta.mkv" 
+          "\nhost = 172.17.0.3"
           "\nport = 5050\n")
 
     input_file = input("Digite el nombre del archivo a convertir [input]: ")
